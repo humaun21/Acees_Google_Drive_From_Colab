@@ -5,7 +5,6 @@ This is the Curriculum for accessing google drive files from colab. [Google Cola
 * imblearn 
 * pydrive 
 * mlxtend 
-* imblearn
 
 ```
 !pip install imblearn
