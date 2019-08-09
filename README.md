@@ -3,7 +3,7 @@ This is the Curriculum for accessing google drive files from colab. [Google Cola
 
 ## Libraries: In order to make it accessiable the following libraries needs to be installed
 * imblearn * pydrive * mlxtend 
-<br />In order to install libaries
+<br />
 `
 ```
 !pip install imblearn
