@@ -3,8 +3,6 @@ This is the Curriculum for accessing google drive files from colab. [Google Cola
 
 ## Libraries: In order to make it accessiable the following libraries needs to be installed
 * imblearn * pydrive * mlxtend
-For the rest, folow the jupyter notebook
-
 
 ## Problem Accessing notebook from github.
 If you face any problem to open notebook file from github, goto [nbviewer](https://nbviewer.jupyter.org/), copy and paste the entire location of a Jupyter Notebook notebook link from github and then it will easy open the notebook file. nbviewer provies very simple way to share jupyter notebooks among the users.
