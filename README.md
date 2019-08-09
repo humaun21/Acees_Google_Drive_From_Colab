@@ -2,7 +2,10 @@
 This is the Curriculum for accessing google drive files from colab. [Google Colab](https://colab.research.google.com/) is a free web based  service which supports supports free GPU! It's a populat cloud serive where you can practice and improve your programming skills. More specificly, you can develop your machine learning or several deep learning modeleasily by using popular libraries e.g. [Scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), and [OpenCV](https://opencv.org/) etc.
 
 ## Libraries: In order to make it accessiable the following libraries needs to be installed
-* imblearn * pydrive * mlxtend * imblearn
+* imblearn 
+* pydrive 
+* mlxtend 
+* imblearn
 
 ```
 !pip install imblearn
